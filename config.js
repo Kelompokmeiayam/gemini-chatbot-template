@@ -24,9 +24,9 @@ const BOT_CONFIG = {
         },
         {
             icon: "⚡",
-            title: "Check Knowledge Base",
-            description: "Ask questions about our custom internal documents.",
-            prompt: "What information do you have in your official knowledge base?"
+            title: "Periksa Basis Pengetahuan",
+            description: "Ajukan pertanyaan tentang dokumen internal khusus kami.",
+            prompt: ""Informasi apa yang Anda miliki di basis pengetahuan resmi Anda?""
         },
         {
             icon: "💡",
