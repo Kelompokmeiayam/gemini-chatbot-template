@@ -11,7 +11,7 @@ const BOT_CONFIG = {
     botName: "TRAVEL BOT",
     botSubtitle: "Powered by Google Gemini • Custom Knowledge Base",
     botAvatar: "🤖",
-    userAvatar: "🧑‍💻",
+    userAvatar: "🤴",
     welcomeHeading: "Hallo! saya travel bot, apakah ada yang bisa saya bantu hari ini?",
     welcomeSubtext: "Saya siap membantu mengatasi travel anda?.",
 
