@@ -13,32 +13,32 @@ const BOT_CONFIG = {
     botAvatar: "🤖",
     userAvatar: "😍",
     welcomeHeading: "Hello! saya travel bot, apakah ada yang bisa saya bantu hari ini?",
-    welcomeSubtext: "Select a starter prompt below or type your own question to begin.",
+    welcomeSubtext: "Pilih salah satu pertanyaan pembuka di bawah ini atau ketik pertanyaan Anda sendiri untuk memulai.",
 
     introCards: [
         {
-            icon: "📚",
-            title: "Explain a Concept",
-            description: "Break down complex topics into simple, everyday terms.",
-            prompt: "Can you explain how artificial intelligence works in simple terms?"
+            icon: "🏖️",
+            title: "Rekomendasi Wisata",
+            description: "Temukan tempat wisata menarik untuk liburan anda.",
+            prompt: "Rekomendasi tempat wisata terbaik di Jawa Barat."
         },
         {
-            icon: "⚡",
-            title: "Check Knowledge Base",
-            description: "Ask questions about our custom internal documents.",
-            prompt: "What information do you have in your official knowledge base?"
+            icon: "🗺️",
+            title: "Rencana perjalanan",
+            description: "Buat jadwal perjalanan wisata yang menyenagkan.",
+            prompt: "Buatkan jadwal liburan 7 hari 6 malam di Jawa Barat."
         },
         {
-            icon: "💡",
-            title: "Brainstorm Ideas",
-            description: "Generate creative project ideas and structured outlines.",
-            prompt: "Give me 3 creative science fair project ideas involving robotics."
+            icon: "💸",
+            title: "Informasi Biaya",
+            description: "Cari tahu perkiraan biaya liburan.",
+            prompt: "Berapa perkiraan biaya liburan di kota-kota di Jawa Barat."
         },
         {
-            icon: "🛠️",
-            title: "Debug & Troubleshoot",
-            description: "Step-by-step assistance for solving technical problems.",
-            prompt: "How should I approach debugging a program that isn't working as expected?"
+            icon: "🏨",
+            title: "Hotel & Penginapan",
+            description: "Temukan informasi hotel dan penginapan.",
+            prompt: "Rekomendasi hotel murah dan nyaman di kota Sejawa Barat?"
         }
     ],
 
