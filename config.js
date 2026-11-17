@@ -58,7 +58,7 @@ const BOT_CONFIG = {
         temperature: 0.7,
         topP: 0.95,
         topK: 40,
-        maxOutputTokens: 1024,
+        maxOutputTokens: 4096,
     },
 
     // ------------------------------------------------------------------------
