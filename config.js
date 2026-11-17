@@ -8,11 +8,11 @@ const BOT_CONFIG = {
     // ------------------------------------------------------------------------
     // 1. BRANDING & UI SETTINGS
     // ------------------------------------------------------------------------
-    botName: "Nexus AI Assistant",
+    botName: "TRAVEL BOT",
     botSubtitle: "Powered by Google Gemini • Custom Knowledge Base",
     botAvatar: "🤖",
-    userAvatar: "🧑‍💻",
-    welcomeHeading: "Hello! How can I help you today?",
+    userAvatar: "😍",
+    welcomeHeading: "Hello! saya travel bot, apakah ada yang bisa saya bantu hari ini?",
     welcomeSubtext: "Select a starter prompt below or type your own question to begin.",
 
     introCards: [
