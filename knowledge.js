@@ -51,7 +51,7 @@ const KNOWLEDGE_BASE = [
         id: "doc-08",
         title: "Wisata Di Jawa Barat",
         keywords: ["Bogor", "Sukabumi", "Cianjur", "Bandung", "Garut", "Tasikmalaya", "Ciamis", "Kuningan", "Cirebon", "Majalengka", "Sumedang", "Indramayu", "Subang", "Purwakarta", "Karawang", "Bekasi", "Bandung Barat", "pangandaran"],
-        content: `Jawa Barat memiliki banyak wisata menarik seperti Garut, Bandung, Pangandaran, Bogor, dan Cianjur. Setiap daerah memiliki ke indahan alam, budaya, serta kuliner khas yang berbeda.`
+        content: `Jawa Barat memiliki banyak wisata menarik seperti Bogor, Sukabumi, Cianjur, Bandung, Garut, Tasikmalaya, Ciamis, Kuningan, Cirebon, Majalengka, Sumedang, Indramayu, Subang, Purwakarta, Karawang, Bekasi, Bandung Barat, pangandaran. Setiap daerah memiliki ke indahan alam, budaya, serta kuliner khas yang berbeda.`
     },
     {
         id: "doc-09",
