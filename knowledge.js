@@ -222,6 +222,6 @@ const KNOWLEDGE_BASE = [
         content: "Kota Banjar memiliki tempat wisata seperti Situ Mustika dan berbagai kawasan rekreasi alam. Kota ini cocok untuk wisata keluarga dan menikmati suasana alam yang tenang."
     },
         
-]
+];
 
 Object.freeze(KNOWLEDGE_BASE);
